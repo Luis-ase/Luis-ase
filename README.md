@@ -8,7 +8,7 @@
 
 
   <h4 align="left"  text-align:"center"​> 
- Soy Desarrolladora Web Full Stack☄️
+ Soy Desarrollador Full Stack☄️
   <br/><br/>
     Lo que me atrae de la programacion es la logica que hay detras de cualquier lenguaje, y a partir de ahi poder crear infinitas combinaciones (respetando las reglas de lo que uses).
 </h4>
@@ -28,6 +28,10 @@
 </p>
 
 <br/>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-ase&show_icons=true&theme=dark&locale=en&layout=compact" alt="luis-ase" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Luis-ase&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="luis-ase" /></p>
+
 <br/>
 <h3>
  🚀Si quieres contactarme... 
