@@ -10,7 +10,7 @@
   <h4 align="left"  text-align:"center"​> 
  Soy Desarrollador Full Stack☄️
   <br/><br/>
-    Lo que me atrae de la programacion es la logica que hay detras de cualquier lenguaje, y a partir de ahi poder crear infinitas combinaciones (respetando las reglas de lo que uses).
+    Lo que me gusta de la programacion es que puedo realizar las ideas que tengo , en una pagina web o en sotfware nada es magia todo codigo y eso es lo que me gusta poder saber como se logro, como fue el proceso , poder realizarlo yo mismo por mi cuenta.
 </h4>
 
 <h3 align="left">Lenguajes y Herramientas que fui aprendiendo:</h3>
