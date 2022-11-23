@@ -4,7 +4,7 @@
 **Luis-ase/Luis-ase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<img src="./Presentacion.png" alt="Hola,soy Cande!"/>
+
 <br/>
 <br/>
 <h1 align="center">💫Bienvenidxs a mi github💫</h1>
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ednacoveja&show_icons=true&theme=dark&locale=en&layout=compact" alt="ednacoveja" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ednacoveja&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="ednacoveja" /></p>
 
 </br>
