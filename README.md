@@ -29,20 +29,10 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-ase&show_icons=true&theme=dark&locale=en&layout=compact" alt="luis-ase" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Luis-ase&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="luis-ase" /></p>
-
 <br/>
 <h3>
  🚀Si quieres contactarme... 
  </h3>
             <br/>
            
-<p>
-  <a href="https://www.linkedin.com/in/michael-condori-2a0394251/"  target="_BLANK" alt="Linkedin">
-  <img align="left" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="Linkedin: candelaria ovejero" /></a>
-         
-  <a href="luis2003nb@gmail.com" target="_BLANK" alt="Gmail">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" alt="Mail: ovejerocande@gmail.com" /></a>
-</p>
-  
+
