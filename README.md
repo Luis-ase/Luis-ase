@@ -5,7 +5,7 @@
 <br/>
 <h1 align="center">💫Bienvenidos a mi github💫</h1>
 <br/>
-<h2 align="center"> Hola 👋 Soy Michael Luis, Condori Paye ✔</h2>
+<h2 align="center"></h2>
 
   <h4 align="left"  text-align:"center"​> 
  Soy Desarrollador Full Stack☄️
